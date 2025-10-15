@@ -11,8 +11,6 @@ var sumDivisibleByK = function(nums, k) {
     }
     for(let num in freq){
         if(freq[num]%k===0){
-            console.log(typeof num,typeof freq[num])
-            console.log(freq[num])
             sum+=(freq[num]*Number(num))
 
         }
