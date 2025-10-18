@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2507-number-of-common-factors) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Enumeration
 |  |
 | ------- |
@@ -52,4 +53,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2507-number-of-common-factors) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3995-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
