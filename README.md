@@ -68,5 +68,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0657-robot-return-to-origin) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3412-permutation-difference-between-two-strings) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
