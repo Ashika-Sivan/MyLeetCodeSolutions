@@ -100,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4107-find-missing-elements](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/4107-find-missing-elements) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
