@@ -6,20 +6,14 @@
  * @return {void} Do not return anything, modify nums1 in-place instead.
  */
 var merge = function(nums1, m, nums2, n) {
-   for(let i=0;i<nums1.length;i++){
-    for(let j=0;j<nums2.length;j++){
-        if(nums1[i]>nums2[j]){
-            let temp=nums1[i]
-            nums1[i]=nums2[j]
-            nums2[j]=temp
-        }else{
-            let temp=nums1[i]
-            nums1[i]=nums2[j]
-            nums2[j]=temp
-            
-        }
-    }
-   }
-   nums1.sort((a,b)=>a-b)
-   console.log(nums1)
+    let s1=nums1.slice(0,m)
+    
+  let res=[...s1,...nums2]
+  res.sort((a,b)=>a-b)
+  for(let i=0;i<res.length;i++){
+    nums1[i]=res[i]
+  }
+  console.log(nums1)
+
+    
 };
