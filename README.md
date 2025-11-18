@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0001-two-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0782-jewels-and-stones](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0782-jewels-and-stones) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0657-robot-return-to-origin) |
+| [0782-jewels-and-stones](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0782-jewels-and-stones) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3412-permutation-difference-between-two-strings) |
