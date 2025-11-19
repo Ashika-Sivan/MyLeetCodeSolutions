@@ -4,17 +4,12 @@
  * @return {number}
  */
 var numJewelsInStones = function(jewels, stones) {
-   let s1=jewels.split('')
-   let s2=stones.split('')
-let count=0
-
-   for(let i=0;i<s1.length;i++){
-    for(let j=0;j<s2.length;j++){
-        if(s1[i]===s2[j]){
+    let count=0
+    for(let i=0;i<stones.length;i++){
+        if(jewels.includes(stones[i])){
             count++
         }
+        
     }
-   }
-   console.log(count)
-   return count
-}
+    return count
+};
