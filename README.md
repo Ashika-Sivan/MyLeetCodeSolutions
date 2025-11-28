@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0561-array-partition](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0561-array-partition) |
 | [0777-toeplitz-matrix](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0777-toeplitz-matrix) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1534-count-good-triplets](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1534-count-good-triplets) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0088-merge-sorted-array) |
+| [0561-array-partition](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0561-array-partition) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [4107-find-missing-elements](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/4107-find-missing-elements) |
 ## Database
@@ -124,4 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0182-duplicate-emails) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0627-swap-sex-of-employees](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0627-swap-sex-of-employees) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
