@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0009-palindrome-number) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1925-count-square-sum-triples](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1925-count-square-sum-triples) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2481-strictly-palindromic-number](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2481-strictly-palindromic-number) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1534-count-good-triplets) |
+| [1925-count-square-sum-triples](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1925-count-square-sum-triples) |
 | [2507-number-of-common-factors](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2507-number-of-common-factors) |
 ## Number Theory
 |  |
