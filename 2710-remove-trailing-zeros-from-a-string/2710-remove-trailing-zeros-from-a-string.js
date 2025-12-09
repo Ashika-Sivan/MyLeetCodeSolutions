@@ -4,5 +4,4 @@
  */
 var removeTrailingZeros = function(num) {
      return num.replace(/0+$/, '');
-  
-}
+};
