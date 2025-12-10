@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0088-merge-sorted-array) |
+| [0414-third-maximum-number](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0561-array-partition](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0561-array-partition) |
 | [0777-toeplitz-matrix](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0777-toeplitz-matrix) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0088-merge-sorted-array) |
+| [0414-third-maximum-number](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0561-array-partition) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [4107-find-missing-elements](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/4107-find-missing-elements) |
