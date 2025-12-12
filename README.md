@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0777-toeplitz-matrix) |
 | [1408-string-matching-in-an-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1408-string-matching-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1534-count-good-triplets](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1534-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1677-matrix-diagonal-sum) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0561-array-partition) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [4107-find-missing-elements](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/4107-find-missing-elements) |
 ## Database
 |  |
