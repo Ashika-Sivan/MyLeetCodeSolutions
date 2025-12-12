@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1925-count-square-sum-triples](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1925-count-square-sum-triples) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -169,4 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
