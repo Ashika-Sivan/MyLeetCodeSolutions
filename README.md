@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2058-concatenation-of-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2058-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2540-minimum-common-value) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0222-count-complete-tree-nodes) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
 |  |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0561-array-partition) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [4107-find-missing-elements](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/4107-find-missing-elements) |
 ## Database
 |  |
