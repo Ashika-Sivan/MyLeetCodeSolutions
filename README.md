@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0929-unique-email-addresses) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2540-minimum-common-value](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2540-minimum-common-value) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Matrix
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0929-unique-email-addresses) |
 | [1408-string-matching-in-an-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1408-string-matching-in-an-array) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3412-permutation-difference-between-two-strings) |
