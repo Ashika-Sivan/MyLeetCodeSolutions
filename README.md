@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3412-permutation-difference-between-two-strings) |
 ## Simulation
