@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2058-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2540-minimum-common-value) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
