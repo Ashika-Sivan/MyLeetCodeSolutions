@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0844-backspace-string-compare) |
 | [0929-unique-email-addresses](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0929-unique-email-addresses) |
 | [1408-string-matching-in-an-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1408-string-matching-in-an-array) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -239,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0206-reverse-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
