@@ -3,16 +3,13 @@
  * @return {number[]}
  */
 var findDisappearedNumbers = function(nums) {
-    let n=nums.length
+    let arr=new Set(nums)
     let res=[]
-    let seen=new Set(nums)
-    for(let i=1;i<=n;i++){
-        if(!seen.has(i)){
+    for(let i=1;i<=nums.length;i++){
+        if(!arr.has(i)){
             res.push(i)
         }
     }
-   
-return res
- 
+    return res
     
 };
