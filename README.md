@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0561-array-partition) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0777-toeplitz-matrix](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0777-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0832-flipping-an-image) |
 | [0929-unique-email-addresses](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1200-minimum-absolute-difference](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1200-minimum-absolute-difference) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0777-toeplitz-matrix](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0777-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1677-matrix-diagonal-sum) |
 ## Math
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0222-count-complete-tree-nodes) |
+| [0832-flipping-an-image](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0832-flipping-an-image) |
 ## String
 |  |
 | ------- |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0657-robot-return-to-origin) |
+| [0832-flipping-an-image](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0844-backspace-string-compare) |
 | [2058-concatenation-of-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2058-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0141-linked-list-cycle) |
+| [0832-flipping-an-image](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2481-strictly-palindromic-number](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2481-strictly-palindromic-number) |
