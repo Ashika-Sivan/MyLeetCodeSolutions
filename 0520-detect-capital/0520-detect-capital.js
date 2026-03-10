@@ -3,11 +3,8 @@
  * @return {boolean}
  */
 var detectCapitalUse = function(word) {
-    if(word===word.toUpperCase())return true
-    if(word===word.toLowerCase())return true
-    let a=word.slice(0,1)
-    let b=word.slice(1)
-    if(a===a.toUpperCase()&&b===b.toLowerCase()){
+    if(word===word.toUpperCase()||word===word.toLowerCase())return true
+    if(word.slice(0,1)===word.slice(0,1).toUpperCase()&&word.slice(1)===word.slice(1).toLowerCase()){
         return true
 
     }
