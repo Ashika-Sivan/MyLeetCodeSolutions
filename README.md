@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0222-count-complete-tree-nodes) |
 | [0832-flipping-an-image](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0832-flipping-an-image) |
+| [1009-complement-of-base-10-integer](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1009-complement-of-base-10-integer) |
 ## String
 |  |
 | ------- |
