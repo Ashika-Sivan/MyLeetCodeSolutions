@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1534-count-good-triplets](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1534-count-good-triplets) |
+| [1539-kth-missing-positive-number](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1539-kth-missing-positive-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1677-matrix-diagonal-sum](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1677-matrix-diagonal-sum) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0222-count-complete-tree-nodes) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1539-kth-missing-positive-number](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
