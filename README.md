@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [3110-score-of-a-string](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3110-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3794-reverse-string-prefix) |
