@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0070-climbing-stairs) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1925-count-square-sum-triples](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1925-count-square-sum-triples) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0222-count-complete-tree-nodes) |
 | [0832-flipping-an-image](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0832-flipping-an-image) |
 | [1009-complement-of-base-10-integer](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1009-complement-of-base-10-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
 |  |
 | ------- |
