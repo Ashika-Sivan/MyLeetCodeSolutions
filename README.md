@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1408-string-matching-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1470-shuffle-the-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1470-shuffle-the-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1534-count-good-triplets](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1534-count-good-triplets) |
 | [1539-kth-missing-positive-number](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1539-kth-missing-positive-number) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1200-minimum-absolute-difference](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1200-minimum-absolute-difference) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
