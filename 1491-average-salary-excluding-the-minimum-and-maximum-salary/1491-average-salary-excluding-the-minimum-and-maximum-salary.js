@@ -3,10 +3,11 @@
  * @return {number}
  */
 var average = function(salary) {
-    let sort=salary.sort((a,b)=>a-b)
-    sort.shift()
-    sort.pop()
-    let s=sort.length
-   let red=sort.reduce((acc,curr)=>acc+curr)/s
-  return red
+    let sortArr=salary.sort((a,b)=>a-b)
+    sortArr.shift()
+    sortArr.pop()
+    let n=sortArr.length
+    let res=sortArr.reduce((acc,curr)=>acc+curr)/n
+    return res
+    
 };
