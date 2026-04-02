@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2058-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2540-minimum-common-value) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
