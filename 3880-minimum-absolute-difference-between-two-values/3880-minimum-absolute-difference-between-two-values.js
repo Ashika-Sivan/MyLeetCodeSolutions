@@ -8,13 +8,8 @@ var minAbsoluteDifference = function (nums) {
         for (let j = 0; j < nums.length; j++) {
             if (nums[i] === 1 && nums[j] == 2) {
                 res = Math.min(res, Math.abs(i - j))
-
             }
-
         }
-       
-
     }
-     console.log(res)
-    return res===Infinity?-1:res
+    return res === Infinity ? -1 : res
 };
