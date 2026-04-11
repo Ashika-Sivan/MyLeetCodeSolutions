@@ -4,21 +4,16 @@
  * @return {number}
  */
 var findKthPositive = function(arr, k) {
-let count=0
-let p=[]
-let max=Math.max(...arr)
-console.log(max)
-for(let i=1;i<=max+k;i++){
-    p.push(i)
-}
-for(let i=0;i<=p.length;i++){
-    if(!arr.includes(p[i])){
-        count++
-    }
+    let max=Math.max(...arr)
+    let seen=[]
+    for(let i=0;i<=max+k;i++){
+        if(!seen.includes(i)){
+            seen.push(i)
+        }
 
-    if(count==k){
-        return p[i]
     }
-}
-}
-
+    let find=seen.filter((x)=>!arr.includes(x))
+    return find[k]
+   
+    
+};
