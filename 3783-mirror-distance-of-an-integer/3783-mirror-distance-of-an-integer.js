@@ -7,4 +7,5 @@ var mirrorDistance = function(n) {
     let res=Math.abs(n-rev)
     return res
     
+    
 };
