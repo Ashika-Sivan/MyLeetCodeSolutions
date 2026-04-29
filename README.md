@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0657-robot-return-to-origin) |
 | [0782-jewels-and-stones](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0782-jewels-and-stones) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0459-repeated-substring-pattern) |
 | [1408-string-matching-in-an-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1408-string-matching-in-an-array) |
 ## Divide and Conquer
 |  |
