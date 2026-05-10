@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3866-first-unique-even-element](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3866-first-unique-even-element) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4107-find-missing-elements](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/4107-find-missing-elements) |
 ## Hash Table
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3412-permutation-difference-between-two-strings](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3866-first-unique-even-element](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3866-first-unique-even-element) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4107-find-missing-elements](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/4107-find-missing-elements) |
 ## Tree
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2404-most-frequent-even-element](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2404-most-frequent-even-element) |
+| [3866-first-unique-even-element](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3866-first-unique-even-element) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Matrix
 |  |
