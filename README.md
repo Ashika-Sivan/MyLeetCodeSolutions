@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0782-jewels-and-stones) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0222-count-complete-tree-nodes) |
+| [0389-find-the-difference](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0832-flipping-an-image) |
 | [1009-complement-of-base-10-integer](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1009-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0389-find-the-difference) |
 | [0459-repeated-substring-pattern](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0657-robot-return-to-origin) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0561-array-partition) |
