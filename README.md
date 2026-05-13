@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1925-count-square-sum-triples) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2119-a-number-after-a-double-reversal) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2469-convert-the-temperature](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2469-convert-the-temperature) |
 | [2481-strictly-palindromic-number](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2481-strictly-palindromic-number) |
 | [2507-number-of-common-factors](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2507-number-of-common-factors) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0844-backspace-string-compare) |
 | [2058-concatenation-of-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2058-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Two Pointers
 |  |
