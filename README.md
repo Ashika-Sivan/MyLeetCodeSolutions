@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2540-minimum-common-value) |
+| [2784-check-if-array-is-good](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2784-check-if-array-is-good) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2404-most-frequent-even-element](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2540-minimum-common-value) |
+| [2784-check-if-array-is-good](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2784-check-if-array-is-good) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2784-check-if-array-is-good](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2784-check-if-array-is-good) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
