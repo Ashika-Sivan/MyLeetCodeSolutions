@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3866-first-unique-even-element](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3866-first-unique-even-element) |
+| [3945-digit-frequency-score](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3945-digit-frequency-score) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4107-find-missing-elements](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/4107-find-missing-elements) |
 ## Tree
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3870-count-commas-in-range) |
+| [3945-digit-frequency-score](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3945-digit-frequency-score) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Enumeration
 |  |
