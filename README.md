@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3280-convert-date-to-binary](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3280-convert-date-to-binary) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3536-maximum-product-of-two-digits](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2784-check-if-array-is-good) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3536-maximum-product-of-two-digits](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [4107-find-missing-elements](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/4107-find-missing-elements) |
 ## Database
