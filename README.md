@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0169-majority-element) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0414-third-maximum-number) |
@@ -320,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
