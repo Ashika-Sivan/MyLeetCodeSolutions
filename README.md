@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0507-perfect-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1925-count-square-sum-triples) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2119-a-number-after-a-double-reversal) |
