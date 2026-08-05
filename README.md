@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3412-permutation-difference-between-two-strings](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3794-reverse-string-prefix) |
+| [3931-check-adjacent-digit-differences](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3931-check-adjacent-digit-differences) |
 ## Simulation
 |  |
 | ------- |
