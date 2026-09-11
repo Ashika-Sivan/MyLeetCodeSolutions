@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-smallest-index-with-equal-value](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2057-smallest-index-with-equal-value) |
 | [2058-concatenation-of-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2058-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2404-most-frequent-even-element) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2404-most-frequent-even-element](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2784-check-if-array-is-good) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1534-count-good-triplets](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1534-count-good-triplets) |
 | [1925-count-square-sum-triples](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1925-count-square-sum-triples) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2507-number-of-common-factors](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2507-number-of-common-factors) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2784-check-if-array-is-good](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2784-check-if-array-is-good) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -376,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0342-power-of-four) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2094-finding-3-digit-even-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
