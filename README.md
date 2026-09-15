@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0507-perfect-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0832-flipping-an-image) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0342-power-of-four) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2094-finding-3-digit-even-numbers) |
