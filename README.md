@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2784-check-if-array-is-good) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2869-minimum-operations-to-collect-elements) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2784-check-if-array-is-good) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2869-minimum-operations-to-collect-elements) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3731-find-missing-elements](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3731-find-missing-elements) |
