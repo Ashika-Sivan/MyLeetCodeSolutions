@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1539-kth-missing-positive-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1677-matrix-diagonal-sum](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1677-matrix-diagonal-sum) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1796-second-largest-digit-in-a-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1768-merge-strings-alternately](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1796-second-largest-digit-in-a-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2000-reverse-prefix-of-word) |
