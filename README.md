@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2540-minimum-common-value) |
+| [2574-left-and-right-sum-differences](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2574-left-and-right-sum-differences) |
 | [2784-check-if-array-is-good](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2784-check-if-array-is-good) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2869-minimum-operations-to-collect-elements) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0724-find-pivot-index) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [2574-left-and-right-sum-differences](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2574-left-and-right-sum-differences) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
