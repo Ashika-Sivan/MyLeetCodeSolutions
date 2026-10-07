@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-count-commas-in-range](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3945-digit-frequency-score](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3945-digit-frequency-score) |
+| [3959-check-good-integer](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3959-check-good-integer) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Enumeration
 |  |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3925-concatenate-array-with-reverse](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3925-concatenate-array-with-reverse) |
+| [3959-check-good-integer](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3959-check-good-integer) |
 ## Two Pointers
 |  |
 | ------- |
