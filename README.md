@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1859-sorting-the-sentence](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1859-sorting-the-sentence) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2000-reverse-prefix-of-word) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1859-sorting-the-sentence](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -439,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
