@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2000-reverse-prefix-of-word) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2278-percentage-of-letter-in-string) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2058-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Ashika-Sivan/MyLeetCodeSolutions/tree/master/3726-remove-zeros-in-decimal-representation) |
